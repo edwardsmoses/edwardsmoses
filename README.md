@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+``` C#
 namespace EdwardsMoses
 {
     public class AboutMe : Me
@@ -25,3 +26,8 @@ namespace EdwardsMoses
         public string FutureGoal => "Contributing to Open Source";
     }
 }
+
+```
+
+---
+⭐️ 
