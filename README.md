@@ -21,7 +21,8 @@ namespace EdwardsMoses
     public class AboutMe : Me
     {
         public string CurrentWorkPlace => "Software Developer, VerticaDev";
-        public string[] Stack => new string[] { "C#", ".NET Core", "React", "ReactNative", "Azure", "EVA UI" };
+        public string[] CurrentStack => new string[] { "C#", ".NET Core", "React", "ReactNative", "Azure", "EVA UI" };
+        public string[] Learning => new string[] { "GatbsyJs", "GraphQL", "AWS"};
         public string[] Hobbies => new string[] { "Coding", "Light Novels" };
         public string FutureGoal => "Contributing to Open Source";
     }
