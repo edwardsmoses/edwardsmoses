@@ -20,9 +20,10 @@ namespace EdwardsMoses
 {
     public class AboutMe : Me
     {
+        public string MyWebsite => "edwardsmoses.com";
         public string CurrentWorkPlace => "Software Developer, VerticaDev";
-        public string[] CurrentTechStack => new string[] { "C#", ".NET Core", "React", "ReactNative", "Azure", "EVA UI" };
-        public string[] CurrentlyLearning => new string[] { "GatbsyJs", "GraphQL", "AWS"};
+        public string[] CurrentTechStack => new string[] { "C#", ".NET Core", "React", "ReactNative", "Azure", "EVA UI", "GatbsyJs", "Firebase", };
+        public string[] CurrentlyLearning => new string[] { "GraphQL", "AWS"};
         public string[] Hobbies => new string[] { "Coding", "Light Novels" };
         public string FutureGoal => "Contributing to Open Source";
     }
