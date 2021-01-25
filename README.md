@@ -31,5 +31,7 @@ namespace EdwardsMoses
 
 ```
 
+![Edwards's github stats](https://github-readme-stats.vercel.app/api?username=edwardsmoses&count_private=true)
+
 ---
 ⭐️ 
