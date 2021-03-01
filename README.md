@@ -22,7 +22,7 @@ namespace EdwardsMoses
     {
         public string MyWebsite => "edwardsmoses.com";
         public string CurrentWorkPlace => "Software Developer, VerticaDev";
-        public string[] CurrentTechStack => new string[] { "React", "ReactNative", "GatbsyJs", "NextJS", "C#", ".NET Core", "Azure", "Firebase", "Google Cloud Functions", "AWS                     Amplify", "EVA UI" };
+        public string[] CurrentTechStack => new string[] { "React", "ReactNative", "GatbsyJs", "NextJS", "C#", ".NET Core", "Azure", "Firebase", "Google Cloud Functions", "AWS  Amplify", "EVA UI" };
         public string[] CurrentlyLearning => new string[] { "GraphQL", "Blazor", "AWS"};
         public string[] Hobbies => new string[] { "Coding", "Light Novels" };
         public string FutureGoal => "Contributing to Open Source";
