@@ -21,9 +21,10 @@ namespace EdwardsMoses
     public class AboutMe : Me
     {
         public string MyWebsite => "edwardsmoses.com";
-        public string CurrentWorkPlace => "Software Developer, VerticaDev";
+        public string CurrentWorkPlace => "Web Lead, Mobile Developer | TroutHouseTech";
         public string[] CurrentTechStack => new string[] { "React", "ReactNative", "GatbsyJs", "NextJS", "C#", ".NET Core", "Azure", "Firebase", "Google Cloud Functions", "AWS  Amplify", "EVA UI" };
         public string[] CurrentlyLearning => new string[] { "GraphQL", "Blazor", "AWS"};
+        public string[] AmbitiousPlan => new string[] { "Machine Learning" };
         public string[] Hobbies => new string[] { "Coding", "Light Novels" };
         public string FutureGoal => "Contributing to Open Source";
     }
