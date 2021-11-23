@@ -22,8 +22,8 @@ namespace EdwardsMoses
     {
         public string MyWebsite => "edwardsmoses.com";
         public string CurrentWorkPlace => "Web Lead, Mobile Developer | TroutHouseTech";
-        public string[] CurrentTechStack => new string[] { "React", "ReactNative", "GatbsyJs", "NextJS", "C#", ".NET Core", "Azure", "Firebase", "Google Cloud Functions", "AWS  Amplify", "EVA UI" };
-        public string[] CurrentlyLearning => new string[] { "GraphQL", "Blazor", "AWS"};
+        public string[] CurrentTechStack => new string[] { "React", "ReactNative", "NextJS", "Rust", "C#", ".NET Core", "Azure", "Firebase", "Google Cloud Functions", "AWS  Amplify", "Ionic", "GraphQL", "EVA UI" };
+        public string[] CurrentlyLearning => new string[] { "Performant React" };
         public string[] AmbitiousPlan => new string[] { "Machine Learning" };
         public string[] Hobbies => new string[] { "Coding", "Light Novels" };
         public string FutureGoal => "Contributing to Open Source";
