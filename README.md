@@ -1,1 +1,1 @@
-[![](https://raw.githubusercontent.com/edwardsmoses/edwardsmoses/master/chat.svg)](https://edwardsmoses.com/)
+[![](https://raw.githubusercontent.com/edwardsmoses/edwardsmoses/main/chat.svg)](https://edwardsmoses.com/)
