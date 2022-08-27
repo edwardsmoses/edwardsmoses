@@ -250,8 +250,8 @@
 
   <!-- Hi, I'm Edwards -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="150" height="42" rx="18.0355" />
-    <text x="15" y="27">Hi, I'm Edwards</text>
+    <rect width="165" height="42" rx="18.0355" />
+    <text x="15" y="27">👋 I'm Edwards</text>
   </g>
 
   <!-- typing 2 -->
@@ -299,9 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="600" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a software developer. I used to work at TrouthouseTech,</text>
-    <text x="15" y="50">but I work independently now with some great folks at Gun.io for {psTime} now.</text>
+    <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I’m a software developer.</text>
+    <text x="15" y="50">I work independently with some great folks at Gun.io</text>
   </g>
 
   <!-- typing 4 -->
@@ -324,9 +324,9 @@
 
   <!-- Twitter -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="650" height="42" rx="18.0355" class="bubble" />
+    <rect width="430" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
-      You can find me on my website at
+      You can find me on
       <a xlink:href="https://edwardsmoses.com">https://edwardsmoses.com</a>
     </text>
   </g>
