@@ -300,8 +300,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a software developer.</text>
-    <text x="15" y="50">I work independently with some great folks at Gun.io</text>
+    <text x="15" y="27">I’m a full-stack dev, and</text>
+    <text x="15" y="50">I work with some great folks at <a xlink:href="https://www.toptal.com/resume/edwards-moses">Toptal</a></text>
   </g>
 
   <!-- typing 4 -->
